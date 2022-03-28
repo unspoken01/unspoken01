@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @unspoken01
-- 👀 I’m interested in coding/ programming
+- 👀 I’m interested in coding and learning how to be a more effective programmer. 
 - 🌱 I’m currently learning basic coding and ethical hacking. 
 - 💞️ I’m looking to collaborate on no current projects.
 - 📫 How to reach me: 2546longemails@gmail.com
