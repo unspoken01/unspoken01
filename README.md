@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unspoken01
-- 👀 I’m interested in coding, learning how to be a more effective programmer and build efficient, user-friendly platforms. 
-- 🌱 I’m currently learning basic coding, ethical hacking and website building. 
+- 👀 I’m interested in coding, ethical hacking and website building.
+- 🌱 I’m currently learning basic coding, how to be a more efficient programmer and build efficient, user-friendly platforms. 
 - 💞️ I’m looking to collaborate on no current projects.
 - 📫 How to reach me: 2546longemails@gmail.com
 
